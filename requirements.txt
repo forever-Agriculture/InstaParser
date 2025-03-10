@@ -1,0 +1,22 @@
+# Core dependencies
+beautifulsoup4==4.12.2
+requests==2.31.0
+fastapi==0.103.1
+uvicorn==0.23.2
+pydantic==2.3.0
+python-dotenv==1.0.0
+sqlalchemy==1.4.46
+
+# Selenium for Instagram scraping
+selenium==4.11.2
+webdriver-manager==4.0.0
+
+# Celery and Redis for scheduled tasks
+celery==5.3.1
+redis==4.6.0
+
+# Telegram bot
+python-telegram-bot==13.15
+
+# Development tools
+pytest==7.4.0 

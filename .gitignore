@@ -1,0 +1,8 @@
+venv
+data/
+.env
+.cursorrules
+__pycache__
+celerybeat-schedule
+*.db
+.pytest_cache

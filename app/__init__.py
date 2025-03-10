@@ -1,0 +1,3 @@
+"""
+Instagram Scraper application package.
+""" 
